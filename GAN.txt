@@ -1,0 +1,6 @@
+lab2
+1.	Design a Generator network that converts random noise vectors into images.
+2.	Design a Discriminator network that classifies images as real or fake.
+3.	Train the GAN for the given number of epochs using alternating training of Discriminator and Generator.
+4.	Generate and save synthetic images periodically during training.
+5.	Predict the labels of generated images using a pre-trained classifier model (transfer learning) and report label distribution.
